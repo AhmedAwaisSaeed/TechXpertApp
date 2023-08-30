@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "285149232969",
+    "project_id": "techxpertapp",
+    "storage_bucket": "techxpertapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285149232969:android:4d2ece446b1f282b4fe498",
+        "android_client_info": {
+          "package_name": "com.techxpertapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285149232969-bt6pm1grvtj01dp6odc0h6n0qfi2cte2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techxpertapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "285149232969-oqb4m61cbmctg73vamkiq4kao5r3iff5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIEHD9bS5bWRa299hUCVEwWBKjf4aACtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285149232969-oqb4m61cbmctg73vamkiq4kao5r3iff5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
